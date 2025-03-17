@@ -1,6 +1,6 @@
 .{
-    .name = "sdl3-prebuilt-x86_64-linux-gnu",
-    .version = "0.1.0",
+    .name = .@"sdl3-prebuilt-x86_64-linux-gnu",
+    .version = "0.2.0",
     .paths = .{
         "build.zig.zon",
         "lib",
